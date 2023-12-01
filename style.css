@@ -1,0 +1,382 @@
+.Header{
+    padding-top: 5px 50px;
+       display: flex;
+    justify-content: space-between;
+  background-color: white;
+}
+.Header ul{
+    display: flex;
+    list-style: none;
+}
+.Header ul li{
+    font-size: 25px;
+    padding: 0px 20px;
+    
+}
+.BtnL{
+    font-size: 15px;
+    background-color: #1E484B;
+color: white;
+    padding: 10px 40px;
+    border-radius: 4px;
+   
+}
+.BtnS{
+    color:  #1E484B;
+    border: 2px #1E484B solid;
+    font-size: 18px;
+    padding: 8px 25px; 
+      margin: 10px; 
+      border-radius: 4px;
+}
+.Agriculture img{
+    width: 100%;
+    height: 100%;
+    /* filter: blur(3px);
+    z-index: -2px; */
+}
+.Agriculture h1{
+    margin-left: 270px;
+    margin-top: -800px;
+    color: white;
+    font-size: 7em;
+    text-align: center;
+    margin-right: 300px;
+    /* display: inline-block; */
+}
+.Agriculture p{
+    margin-left: 270px;
+    margin-top: 10px;
+    color: white;
+    margin-right: 300px;
+    font-size: 1.2em;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+.BtnLn{
+    font-size: 15px;
+    background-color: #1E484B;
+color: white;
+    padding: 10px 40px;
+    border-radius: 4px;
+    margin-left: 580px;
+    margin-top: 40px;
+   
+}
+/* .BtnSp{
+    color:  #1E484B;
+    border: 2px #1E484B solid ;
+    font-size: 18px;
+    padding: 8px 25px; 
+      margin: -4px; 
+      border-radius: 4px;
+      margin-left: 800px;
+      margin-top: -00px;
+} */
+.center{
+    display: flex;
+    justify-content: space-around;
+    background-color: #E6E6E6;
+    height: 680px;
+    text-align: justify;
+}
+.left-center h1{
+     margin-left: -40px;
+     /* text-align: justify; */
+
+    color:#1E484B;
+    font-size: 5em;
+    text-align: center;
+    margin-right: 70px;
+}
+.left-center p{
+  
+    margin-right: 300px;
+    font-size: 1.2em;
+    text-align: justify;
+    margin-top: -60px;
+    margin-left: 70px;
+}
+.BtnG{
+    font-size: 15px;
+    background-color: #1E484B;
+color: white;
+    padding: 10px 40px;
+    border-radius: 4px;
+    margin-left: 50px;
+    margin-top: -10px;
+   
+}
+.right-center img{
+    width: 500px;
+    height: 500px;
+    margin-top: 90px;
+    border-radius: 6px;
+}
+.BtnGS{
+    font-size: 40px;
+    background-color: white;
+color:#1E484B;
+    padding: 10px 40px;
+    border-radius: 20px;
+    margin-top: -100px;
+width: 320px;
+height: 80px;
+margin-left: 50px;
+
+}
+.Service{
+    background-color: #E6E6E6;
+    justify-content: space-around;
+
+}
+.Top-service h1{
+    font-size: 3em;
+    color:#1E484B;
+    justify-content: center;
+    text-align: center;
+}
+.Top-service p{
+    text-align: center;
+}
+.boxs-Service{
+    width: 230px;
+    height: 200px;
+    background-color: white;
+    margin: 40px;
+    border-radius: 12px;
+    padding: 12px;
+    font-size: medium;
+     
+}
+
+.boxs-parent{
+   margin-top: 30px;
+    justify-content: space-around;
+    display: grid;
+    grid-template-columns: 350px 350px 350px 350px;
+}
+.fa-solid{
+    font-size: 3em;
+   margin-left: 50px;
+}
+.fa-regular{
+    font-size: 3em;
+    margin-left: 50px;
+}
+.Featured-product h1{
+    font-size: 3em;
+    color:#1E484B;
+    justify-content: center;
+    text-align: center;
+}
+.Featured-product p{
+    text-align: center;
+    margin-top: -20px;
+}
+.plants-parent{
+    margin-top: 30px;
+    justify-content: space-around;
+    display: grid;
+    grid-template-columns: 350px 350px 350px 350px;
+}
+.plants-feature{
+    width: 230px;
+    height: 350px;
+    background-color: white;
+    margin: 40px;
+    border-radius: 12px;
+    padding: 12px;
+    font-size: medium;
+}
+.plants-feature img{
+    width: 100%;
+    height: 160px;
+    border-radius: 12px;
+}
+.plants-feature p{
+    text-align: center;
+    margin-top: -50px;
+}
+.plants-parent a{
+    margin-left: 600px;
+    color:#1E484B;
+    font-size: 1.5em;
+   
+
+}
+.plants-feature h1{
+    margin: ;
+}
+.Main img{
+    width: 100%;
+    height: 50%;
+   
+}
+.Main h1{
+    margin-top: -700px;
+    color: white;
+    font-size: 6em;
+    margin-left: 200px;
+}
+.left-benifit p{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+/*  */
+.Benifits{
+    display: flex;
+    justify-content: space-between;
+}
+.left-benifit h1{
+    margin-top: 300px;
+    color: #1E484B;
+    margin-left: 200px;
+    font-size: 5em;
+}
+.Right-benifit{
+   
+    height: 700px;
+    width: 500px;
+    background-color :#1E484B;
+    margin-top: 250px;
+   margin-right: 100px;
+   border-radius: 12px;
+}
+li{
+    list-style: none;
+}
+.lists{
+    margin-left: 50px;
+  font-size: 2.5em;
+  color: white;
+  margin-top: -80px;
+  
+}
+.fa-brands{
+    font-size: 3em;
+    color: white;
+    background-color: #1E484B;
+}
+
+.BtnLM{
+    font-size: 15px;
+    background-color: #1E484B;
+color: white;
+    padding: 10px 40px;
+    border-radius: 4px;
+    margin-left: 10px;
+    margin-top: -40px;
+}
+.Testi h1{
+    font-size: 5em;
+    color:#1E484B;
+    justify-content: center;
+    text-align: center;
+}
+.Testi p{
+    text-align: center;
+    margin-top: -50px;
+}
+.Maneger{
+    height: 300px;
+    width: 900px;
+    background-color: #1E484B;
+    margin-left: 260px;
+    border-radius: 12px;
+
+}
+.left-maneger img{
+    width: 350px;
+    height: 250px;
+    padding: 20px;
+    border-radius: 32px;
+}
+.Maneger{
+    display: flex;
+    color: white;
+    margin-top: 20px;
+}
+#star{
+    color: rgb(253, 178, 56);
+}
+.Blog h1{
+    font-size: 5em;
+    color:#1E484B;
+    justify-content: center;
+    text-align: center;
+}
+.Blog p{
+    text-align: center;
+    margin-top: -50px;
+   
+}
+.blog{
+    margin-top: 30px;
+     justify-content: space-around;
+     display: grid;
+     grid-template-columns: 350px 350px 350px ;
+ }
+ .Blog-down{
+
+
+ border-radius: 12px;
+
+ font-size: medium;
+ }
+ .Blog-down img{
+    width: 400px;
+    height: 500px;
+    border-radius: 33px;
+ }
+ .footer{
+    width: 1500px;
+    height: 500px;
+    background-color: #1E484B;
+    margin-top: 100px;
+ }
+ @media screen and (max-width :600px) {
+    #menu-icon{
+        display: block;
+    }
+    #buttons{
+        display: none;
+
+    }
+    .Header ul{
+        display: none;
+    }
+    .Header h1{
+        font-size: 26px;
+       
+    }
+    .Agriculture P{
+margin: 12px;
+
+    }
+    .BtnS{
+        margin-right: 20px;
+        margin-top: 20px;
+    }
+    .Agriculture h1{
+        font-size: 40px;
+    }
+    .center{
+        flex-direction: column;
+    }
+    .left-center{
+        width: 350px;
+        margin: 20px;
+    }
+    .left-center h1{
+        font-size: 40px;
+    }
+
+    .right-center{
+        margin: 20px;
+        width: 350ox;
+    }
+    .
+ }
